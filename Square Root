@@ -1,0 +1,6 @@
+Write a program to find the Square of a number using function.
+def sqrt(x):
+    print(x**2)
+    
+a=int(input())
+sqrt(a)

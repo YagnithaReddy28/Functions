@@ -1,0 +1,6 @@
+Write a program to find the cube of a number using function.
+def cube(x):
+    print(x**3)
+    
+a=int(input())
+cube(a)
